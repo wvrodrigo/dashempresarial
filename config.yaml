@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    rodrigo@gmail.com:
+      email: rodrigo@gmail.com
+      name: Rodrigo Werneck
+      password: '123456'  # Senha em texto puro que será criptografada
+    arthur@gmail.com:
+      email: arthur@email.com
+      name: "Arthur Marun"
+      password: "123456"
+    nathy@gmail.com:
+      email: nathy@email.com
+      name: "Nathalia Marun"
+      password: "123456"

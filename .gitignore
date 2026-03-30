@@ -1,0 +1,22 @@
+# Ambientes Virtuais (VENV)
+venv/
+.venv/
+env/
+bin/
+obj/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações locais do Streamlit (opcional, se quiser esconder suas configs de tema)
+#.streamlit/config.toml
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+
+# Dados Sensíveis (NUNCA suba arquivos com senhas ou chaves)
+.env
+*.log
